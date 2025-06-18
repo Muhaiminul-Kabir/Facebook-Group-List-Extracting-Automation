@@ -1,6 +1,6 @@
 # 📋 Facebook Group List Extractor (Keyboard & Mouse Automation)
 
-This project automates the process of **extracting Facebook group URLs** from a Facebook page (such as search results or a profile's groups list) using Python and `PyAutoGUI`. It simulates keyboard and mouse actions to copy group links without using the Facebook API.
+This project automates the process of **extracting Facebook group URLs** from a Facebook page (such as search results or a profile's groups list) using Python and `PyAutoGUI`. It simulates keyboard and mouse actions to get the list of your group links without using the Facebook API.
 
 ## 📦 Requirements
 
